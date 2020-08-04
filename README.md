@@ -1,4 +1,4 @@
-<img width="auto" src="https://ibb.co/9w9rpNh">
+<img width="auto" src="https://github.com/igorzucolotto/username/blob/master/synthwave-8k-qt-1920x1080.jpg?raw=true">
 
 
 # Igor Santana Zucolotto
