@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://ibb.co/9w9rpNh">
 
 
 # Igor Santana Zucolotto
