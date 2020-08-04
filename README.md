@@ -1,4 +1,4 @@
-<img width=700px height=300px src="https://github.com/igorzucolotto/username/blob/master/synthwave-8k-qt-1920x1080.jpg?raw=true">
+<img width=1100px height=400px src="https://github.com/igorzucolotto/username/blob/master/synthwave-8k-qt-1920x1080.jpg?raw=true">
 
 
 # Igor Santana Zucolotto
