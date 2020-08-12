@@ -4,7 +4,7 @@
 # Igor Santana Zucolotto
 
 ## Olá pessoal 👋
-Sou um apaixonado por resolver problemas da área tecnológica. Tenho 22 anos e estou fazendo cursos por fora para poder ampliar ainda mais meu conhecimento nesta vasta área que é a técnologia.
+Sou um apaixonado por resolver problemas da área tecnológica. Tenho 22 anos e estou fazendo cursos por fora para poder ampliar ainda mais meu conhecimento nesta vasta área que é a tecnologia.
 
  :mortar_board:  &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** pela faculdade **UCL**
  <br/> :dart: &nbsp; Focando em Front-end, Back-end e UX design
